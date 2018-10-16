@@ -12,3 +12,7 @@ Where I keep my own certificates!
 >UAlg's certificate for "Linkedin como ferramenta de networking. O perfil de um programador."
 
 [UAlg Certificate](UAlg_Certificate_Turbine_Kreuzberg_Speech.pdf)
+
+>UAlg's certificate for "Erros a evitar no uso da Linguagem Corporal."
+
+[UAlg Certificate](UAlg_Certificate_Turbine_Kreuzberg_Speech.pdf)
