@@ -16,3 +16,8 @@ Where I keep my own certificates!
 >UAlg's certificate for "Erros a evitar no uso da Linguagem Corporal."
 
 [UAlg Certificate](UAlg_Certificate_Turbine_Kreuzberg_Speech.pdf)
+
+
+>MIUP's certificate 2018
+
+[MIUP Certificate](MIUP_2018_Certificate.jpg)
