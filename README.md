@@ -21,3 +21,18 @@ Where I keep my own certificates!
 >MIUP's certificate 2018
 
 [MIUP Certificate](MIUP_2018_Certificate.jpg)
+
+
+>Canguru Matemático certificate 2014
+
+[Canguru Matemático Certificate](Canguru.pdf)
+
+
+>Speak Out Challenge certificate
+
+[Speak Out Challenge Certificate](JackPetchey.pdf)
+
+
+>Voluntariado Ambiental certificate
+
+[Voluntariado Ambiental Certificate](JackPetchey.pdf)
