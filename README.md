@@ -36,3 +36,8 @@ Where I keep my own certificates!
 >Voluntariado Ambiental certificate
 
 [Voluntariado Ambiental Certificate](Certificado%20de%20Voluntariado%20pelo%20Ambiente.pdf)
+
+
+>UAlg's certificate for "Competências para vida"
+
+[UAlg Certificate](Competencias_Para_A_Vida_Miguel-Cristina.pdf)
