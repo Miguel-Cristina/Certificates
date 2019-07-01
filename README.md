@@ -17,7 +17,7 @@ Where I keep my own certificates!
 
 [IFB Certificate](IFB_comercializacao_credito_consumidor.pdf)
 
->IFB's certificate "Certificação de Intermedição de Crédito"
+>IFB's certificate "Certificação de Intermediação de Crédito"
 
 [IFB Certificate](IFB_intermediacao_de_credito.pdf)
 
