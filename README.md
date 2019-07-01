@@ -9,6 +9,22 @@ Where I keep my own certificates!
 
 [MTIx Certificate](MITx%206.00.1x%20Certificate%20_%20edX.pdf)
 
+>MIUP's certificate 2018
+
+[MIUP Certificate](MIUP_2018_Certificate.jpg)
+
+>IFB's certificate "Certificação de Comercialização de Créditos ao Consumidor"
+
+[IFB Certificate](IFB_comercializacao_credito_consumidor.pdf)
+
+>IFB's certificate "Certificação de Intermedição de Crédito"
+
+[IFB Certificate](IFB_intermediacao_de_credito.pdf)
+
+>MIUP's certificate 2018
+
+[MIUP Certificate](MIUP_2018_Certificate.jpg)
+
 >UAlg's certificate for "Linkedin como ferramenta de networking. O perfil de um programador."
 
 [UAlg Certificate](UAlg_Certificate_Turbine_Kreuzberg_Speech.pdf)
@@ -17,26 +33,17 @@ Where I keep my own certificates!
 
 [UAlg Certificate](UAlg_Certificate_Turbine_Kreuzberg_Speech.pdf)
 
-
->MIUP's certificate 2018
-
-[MIUP Certificate](MIUP_2018_Certificate.jpg)
-
-
 >Canguru Matemático certificate 2014
 
 [Canguru Matemático Certificate](Canguru.pdf)
-
 
 >Speak Out Challenge certificate
 
 [Speak Out Challenge Certificate](JackPetchey.pdf)
 
-
 >Voluntariado Ambiental certificate
 
 [Voluntariado Ambiental Certificate](Certificado%20de%20Voluntariado%20pelo%20Ambiente.pdf)
-
 
 >UAlg's certificate for "Competências para vida"
 
