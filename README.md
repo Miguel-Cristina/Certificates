@@ -48,3 +48,7 @@ Where I keep my own certificates!
 >UAlg's certificate for "Competências para vida"
 
 [UAlg Certificate](Competencias_Para_A_Vida_Miguel-Cristina.pdf)
+
+>ASFAC certificate for "Prevenção de Branqueamento de Capitais e do Financiamento do Terrorismo - Entidades Não Financeiras"
+
+[ASFAC Certificate](PBCFT%20MiguelCristina83.pdf)
