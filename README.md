@@ -49,6 +49,6 @@ Where I keep my own certificates!
 
 [UAlg Certificate](Competencias_Para_A_Vida_Miguel-Cristina.pdf)
 
->ASFAC certificate for "Prevenção de Branqueamento de Capitais e do Financiamento do Terrorismo - Entidades Não Financeiras"
+>ASFAC certificate for "Prevenção de Branqueamento de Capitais e do Financiamento do Terrorismo - Entidades Não Financeiras" issued by 321 Crédito
 
-[ASFAC Certificate](PBCFT%20MiguelCristina83.pdf)
+[ASFAC Certificate](321Credito_MiguelCristina.pdf)
